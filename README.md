@@ -1,30 +1,33 @@
-# §Linters:
+# THIS IS ONLY A PERSONAL GUIDE.
 
-## Linters são ferramentas que analisam o código-fonte em busca de erros, problemas de estilo e possíveis bugs. (ESLINT)
+## §Linters:
 
-# §Formatters
+### Linters são ferramentas que analisam o código-fonte em busca de erros, problemas de estilo e possíveis bugs. (ESLINT)
 
-## Formatters são ferramentas que ajustam automaticamente a formatação do código-fonte para garantir consistência e legibilidade. (PRETTIER)
+## §Formatters
 
-# HOW TO INSTALL AND USE THE ESLINT AND PRETTIER !
+### Formatters são ferramentas que ajustam automaticamente a formatação do código-fonte para garantir consistência e legibilidade. (PRETTIER)
 
-(VITE)
-1° npm create vite@latest --template react-ts
+## HOW TO INSTALL AND USE THE ESLINT AND PRETTIER !
 
-2 ° cd folder deeper and follow the instructions !!
+## (VITE)
+### 1° npm create vite@latest --template react-ts
+
+### 2 ° cd folder deeper and follow the instructions of the terminal !!
 ============================================================
-(ESLINT E PRETTIER)
-1° npm init @eslint/config ( show the options to you configure)
+## (ESLINT E PRETTIER)
 
-2° npm i --save-dev eslint-config-prettier
+### 1° npm init @eslint/config ( show the options to you configure)
 
-3° npm install eslint-plugin-import-helpers eslint-import-resolver-typescript --save-dev ( organize the order of imports within the files.)
+### 2° npm i --save-dev eslint-config-prettier
 
-4° create a folder .eslintignore and put in
-"/\*.js
-node_modules
-dist
+### 3° npm install eslint-plugin-import-helpers eslint-import-resolver-typescript --save-dev ( organize the order of imports within the files.)
 
-5° npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev
+### 4° create a folder .eslintignore and put in
+### "/\*.js
+### node_modules
+### dist
 
-================================================
+### 5° npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev
+
+=============================================================================
