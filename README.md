@@ -1,5 +1,7 @@
 # THIS IS ONLY A PERSONAL GUIDE.
 
+* Task Runners são ferramentas que automatizam tarefas repetitivas no desenvolvimento web(NPM SCRIPTS). [executores de tarefas]
+
 ## §Linters:
 
 ### Linters são ferramentas que analisam o código-fonte em busca de erros, problemas de estilo e possíveis bugs. (ESLINT)
