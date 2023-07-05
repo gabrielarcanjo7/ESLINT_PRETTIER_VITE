@@ -16,7 +16,7 @@
 
 #### Vite é um build tool (ferramenta de construção) para aplicações web modernas
 
-#### 1° npm create vite@latest --template react-ts
+#### 1° npm create vite@latest my-react-app -- --template react
 
 #### 2 ° cd folder deeper and follow the instructions of the terminal !!
 ============================================================
