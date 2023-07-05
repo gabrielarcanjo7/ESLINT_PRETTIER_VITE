@@ -41,7 +41,9 @@
 
 ### 8° npm i prettier eslint-config-prettier eslint-plugin-prettier -D
 
-#### 9° reference rules on .eslintrc.json
+### 9° Open the EditorConfig for VS Code.
+
+#### 10° reference rules on .eslintrc.json
 ```json
 {
 "env": {
@@ -151,4 +153,5 @@
 }
 } 
 ```
+####CLOSE THE VSCODE AND OPEN IT AGAIN
 =============================================================================
