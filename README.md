@@ -18,25 +18,30 @@
 
 #### 1° npm create vite@latest my-react-app -- --template react
 
-#### 2 ° cd folder deeper and follow the instructions of the terminal !!
+#### 2° cd folder deeper and follow the instructions of the terminal !!
 ============================================================
 ### (ESLINT E PRETTIER)
 
-#### 1° npm init @eslint/config ( show the options to you configure)
-#### npm install --save-dev --save-exact prettier
+### 1° npm install --save-dev eslint
 
-#### 2° npm i --save-dev eslint-config-prettier
+#### 2° npm init @eslint/config ( show the options to you configure)
 
-#### 3° npm install eslint-plugin-import-helpers eslint-import-resolver-typescript --save-dev ( organize the order of imports within the files.)
+#### 3° npm install --save-dev --save-exact prettier
 
-#### 4° create a folder .eslintignore and put in
+#### 4° npm i --save-dev eslint-config-prettier
+
+#### 5° npm install eslint-plugin-import-helpers eslint-import-resolver-typescript --save-dev ( organize the order of imports within the files.)
+
+#### 6° create a folder .eslintignore and put in
 #### /*.js
 #### node_modules
 #### dist
 
-#### 5° npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev
+#### 7° npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev
 
-#### 6° reference rules on .eslintrc.json
+### 8° npm i prettier eslint-config-prettier eslint-plugin-prettier -D
+
+#### 9° reference rules on .eslintrc.json
 ```json
 {
 "env": {
