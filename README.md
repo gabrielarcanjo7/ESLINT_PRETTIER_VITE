@@ -32,7 +32,7 @@
 
 #### 5° npm install eslint-plugin-import-helpers eslint-import-resolver-typescript --save-dev ( organize the order of imports within the files.)
 
-#### 6° create a folder .eslintignore and put in
+#### 6° create a archive .eslintignore and put in
 #### /*.js
 #### node_modules
 #### dist
