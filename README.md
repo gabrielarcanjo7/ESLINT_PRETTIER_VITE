@@ -37,8 +37,6 @@
 #### node_modules
 #### dist
 
-#### 7° npm install prettier eslint-config-prettier eslint-plugin-prettier --save-dev
-
 ### 8° npm i prettier eslint-config-prettier eslint-plugin-prettier -D
 
 ### 9° Open the EditorConfig for VS Code.
