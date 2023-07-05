@@ -23,6 +23,7 @@
 ### (ESLINT E PRETTIER)
 
 #### 1° npm init @eslint/config ( show the options to you configure)
+#### npm install --save-dev --save-exact prettier
 
 #### 2° npm i --save-dev eslint-config-prettier
 
