@@ -22,7 +22,7 @@
 ============================================================
 ### (ESLINT E PRETTIER)
 
-### 1° npm install --save-dev eslint
+#### 1° npm install --save-dev eslint
 
 #### 2° npm init @eslint/config ( show the options to you configure)
 
@@ -37,11 +37,11 @@
 #### node_modules
 #### dist
 
-### 8° npm i prettier eslint-config-prettier eslint-plugin-prettier -D
+#### 7° npm i prettier eslint-config-prettier eslint-plugin-prettier -D
 
-### 9° Open the EditorConfig for VS Code.
+#### 8° Open the EditorConfig for VS Code.
 
-#### 10° reference rules on .eslintrc.json
+#### 9° reference rules on .eslintrc.json
 ```json
 {
 "env": {
